@@ -1,0 +1,16 @@
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinCalculator\WinCalculator\bin\Debug\net8.0-windows\WinCalculator.exe
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinCalculator\WinCalculator\bin\Debug\net8.0-windows\WinCalculator.deps.json
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinCalculator\WinCalculator\bin\Debug\net8.0-windows\WinCalculator.runtimeconfig.json
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinCalculator\WinCalculator\bin\Debug\net8.0-windows\WinCalculator.dll
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinCalculator\WinCalculator\bin\Debug\net8.0-windows\WinCalculator.pdb
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinCalculator\WinCalculator\obj\Debug\net8.0-windows\WinCalculator.Form1.resources
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinCalculator\WinCalculator\obj\Debug\net8.0-windows\WinCalculator.csproj.GenerateResource.cache
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinCalculator\WinCalculator\obj\Debug\net8.0-windows\WinCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinCalculator\WinCalculator\obj\Debug\net8.0-windows\WinCalculator.AssemblyInfoInputs.cache
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinCalculator\WinCalculator\obj\Debug\net8.0-windows\WinCalculator.AssemblyInfo.cs
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinCalculator\WinCalculator\obj\Debug\net8.0-windows\WinCalculator.csproj.CoreCompileInputs.cache
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinCalculator\WinCalculator\obj\Debug\net8.0-windows\WinCalculator.dll
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinCalculator\WinCalculator\obj\Debug\net8.0-windows\refint\WinCalculator.dll
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinCalculator\WinCalculator\obj\Debug\net8.0-windows\WinCalculator.pdb
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinCalculator\WinCalculator\obj\Debug\net8.0-windows\WinCalculator.genruntimeconfig.cache
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinCalculator\WinCalculator\obj\Debug\net8.0-windows\ref\WinCalculator.dll
